@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🎓 Computer Science student at **NIT Kurukshetra**
 - 🧠 Solved **700+ DSA problems**
-- 🏆 **ACM ICPC Regionalist 2025 (AIR 473 - Preliminary Round)**
+- 🏆 **ACM ICPC Participant 2025 (AIR 473 - Preliminary Round)**
 - 💻 Passionate about **Backend Development, Algorithms, and Web Apps**
 
 ---
@@ -50,7 +50,7 @@ Git | GitHub | VS Code
 ---
 
 ## 🏆 Achievements
-- ACM ICPC Regionalist 2025 — **AIR 473**
+- ACM ICPC Participant— **AIR 473**
 - **LeetCode Rating: 1700+**
 - **Codeforces Pupil (1300+)**
 - Solved **700+ competitive programming problems**
