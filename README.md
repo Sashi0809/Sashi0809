@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science student at **NIT Kurukshetra**
-- 🧠 Solved **700+ DSA problems**
+- 🧠 Solved **1100+ DSA problems**
 - 🏆 **ACM ICPC Participant 2025 (AIR 473 - Preliminary Round)**
 - 💻 Passionate about **Backend Development, Algorithms, and Web Apps**
 
